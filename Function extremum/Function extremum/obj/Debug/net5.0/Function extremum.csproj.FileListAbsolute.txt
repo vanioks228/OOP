@@ -14,3 +14,19 @@ C:\Users\Vanioks\Desktop\Function extremum\Function extremum\obj\Debug\net5.0\Fu
 C:\Users\Vanioks\Desktop\Function extremum\Function extremum\obj\Debug\net5.0\ref\Function extremum.dll
 C:\Users\Vanioks\Desktop\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.pdb
 C:\Users\Vanioks\Desktop\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.genruntimeconfig.cache
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\Function extremum.exe
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\Function extremum.deps.json
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\Function extremum.runtimeconfig.json
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\Function extremum.runtimeconfig.dev.json
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\Function extremum.dll
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\ref\Function extremum.dll
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\bin\Debug\net5.0\Function extremum.pdb
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.csproj.AssemblyReference.cache
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.GeneratedMSBuildEditorConfig.editorconfig
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.AssemblyInfoInputs.cache
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.AssemblyInfo.cs
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.csproj.CoreCompileInputs.cache
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.dll
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\ref\Function extremum.dll
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.pdb
+D:\my\my\тусур\2 курс\1 семестр\OOP\Function extremum\Function extremum\obj\Debug\net5.0\Function extremum.genruntimeconfig.cache

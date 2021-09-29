@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vanioks\\Desktop\\Function extremum\\Function extremum\\Function extremum.csproj": {}
+    "D:\\my\\my\\тусур\\2 курс\\1 семестр\\OOP\\Function extremum\\Function extremum\\Function extremum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vanioks\\Desktop\\Function extremum\\Function extremum\\Function extremum.csproj": {
+    "D:\\my\\my\\тусур\\2 курс\\1 семестр\\OOP\\Function extremum\\Function extremum\\Function extremum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vanioks\\Desktop\\Function extremum\\Function extremum\\Function extremum.csproj",
+        "projectUniqueName": "D:\\my\\my\\тусур\\2 курс\\1 семестр\\OOP\\Function extremum\\Function extremum\\Function extremum.csproj",
         "projectName": "Function extremum",
-        "projectPath": "C:\\Users\\Vanioks\\Desktop\\Function extremum\\Function extremum\\Function extremum.csproj",
+        "projectPath": "D:\\my\\my\\тусур\\2 курс\\1 семестр\\OOP\\Function extremum\\Function extremum\\Function extremum.csproj",
         "packagesPath": "C:\\Users\\Vanioks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vanioks\\Desktop\\Function extremum\\Function extremum\\obj\\",
+        "outputPath": "D:\\my\\my\\тусур\\2 курс\\1 семестр\\OOP\\Function extremum\\Function extremum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
