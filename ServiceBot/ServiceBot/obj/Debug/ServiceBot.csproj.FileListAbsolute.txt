@@ -1,0 +1,7 @@
+C:\Users\da\Desktop\ServiceBot\ServiceBot\bin\Debug\ServiceBot.exe.config
+C:\Users\da\Desktop\ServiceBot\ServiceBot\bin\Debug\ServiceBot.exe
+C:\Users\da\Desktop\ServiceBot\ServiceBot\bin\Debug\ServiceBot.pdb
+C:\Users\da\Desktop\ServiceBot\ServiceBot\obj\Debug\ServiceBot.csprojAssemblyReference.cache
+C:\Users\da\Desktop\ServiceBot\ServiceBot\obj\Debug\ServiceBot.csproj.CoreCompileInputs.cache
+C:\Users\da\Desktop\ServiceBot\ServiceBot\obj\Debug\ServiceBot.exe
+C:\Users\da\Desktop\ServiceBot\ServiceBot\obj\Debug\ServiceBot.pdb
