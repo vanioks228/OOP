@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My\\my\\тусур\\2 курс\\1 семестр\\OOP\\Chat, TeleMessage\\Server\\Server.csproj": {}
+    "C:\\Users\\Vanioks\\Desktop\\lol\\Chat\\Server\\Server.csproj": {}
   },
   "projects": {
-    "D:\\My\\my\\тусур\\2 курс\\1 семестр\\OOP\\Chat, TeleMessage\\Server\\Server.csproj": {
+    "C:\\Users\\Vanioks\\Desktop\\lol\\Chat\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My\\my\\тусур\\2 курс\\1 семестр\\OOP\\Chat, TeleMessage\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\Vanioks\\Desktop\\lol\\Chat\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "D:\\My\\my\\тусур\\2 курс\\1 семестр\\OOP\\Chat, TeleMessage\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\Vanioks\\Desktop\\lol\\Chat\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Vanioks\\.nuget\\packages\\",
-        "outputPath": "D:\\My\\my\\тусур\\2 курс\\1 семестр\\OOP\\Chat, TeleMessage\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Vanioks\\Desktop\\lol\\Chat\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Vanioks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
